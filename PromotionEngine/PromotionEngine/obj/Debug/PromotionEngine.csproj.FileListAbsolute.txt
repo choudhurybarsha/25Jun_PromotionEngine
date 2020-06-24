@@ -1,0 +1,7 @@
+C:\Users\Rakhi\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csprojAssemblyReference.cache
+C:\Users\Rakhi\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\Rakhi\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+C:\Users\Rakhi\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+C:\Users\Rakhi\source\repos\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Users\Rakhi\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+C:\Users\Rakhi\source\repos\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb

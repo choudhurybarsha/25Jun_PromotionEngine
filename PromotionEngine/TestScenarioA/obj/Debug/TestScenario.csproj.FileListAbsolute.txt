@@ -1,0 +1,17 @@
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\TestScenarioA.dll
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\TestScenarioA.pdb
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\PromotionEngine.exe
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\PromotionEngine.pdb
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\PromotionEngine.exe.config
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\obj\Debug\TestScenario.csprojAssemblyReference.cache
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\obj\Debug\TestScenario.csproj.CoreCompileInputs.cache
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\obj\Debug\TestScenario.csproj.CopyComplete
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\obj\Debug\TestScenarioA.dll
+C:\Users\Rakhi\source\repos\PromotionEngine\TestScenarioA\obj\Debug\TestScenarioA.pdb
